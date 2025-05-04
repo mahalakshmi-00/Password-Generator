@@ -41,7 +41,7 @@ A sleek and simple password generator built using **HTML, CSS, and JavaScript**.
 
 ## 📸 Preview
 
-![Password Generator Preview] ![screenshot png](https://github.com/user-attachments/assets/42fb40fa-6721-47a0-a87e-fa9568c21c09)
+##[Password Generator Preview] ![screenshot png](https://github.com/user-attachments/assets/42fb40fa-6721-47a0-a87e-fa9568c21c09)
 
 
 ## 🪄 Future Enhancements
